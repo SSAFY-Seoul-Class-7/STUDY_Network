@@ -12,3 +12,6 @@
 | 09.18 | Cookie, Session, HTTP, Socket | 박종현 |  |
 | 09.18 | Cookie, Session, HTTP, Socket | 남선우 |  |
 | 09.25 | TCP/UDP | 한민욱 |  |
+| 10.16 | Browser | 박창희 | [박창희](https://github.com/SSAFY-Seoul-Class-7/STUDY_Network/blob/main/Browser%2C%20DNS%2C%20SOP%2C%20CORS/%EB%B0%95%EC%B0%BD%ED%9D%AC_Browser.pdf) |
+| 10.16 | DNS | 정정교 | [정정교](https://github.com/SSAFY-Seoul-Class-7/STUDY_Network/blob/main/Browser%2C%20DNS%2C%20SOP%2C%20CORS/%EC%A0%95%EC%A0%95%EA%B5%90_DNS.pdf)|
+| 10.16 | SOP/CORS | 하윤철 | [하윤철](https://github.com/SSAFY-Seoul-Class-7/STUDY_Network/blob/main/Browser%2C%20DNS%2C%20SOP%2C%20CORS/SOP%2CCORS%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx)|
