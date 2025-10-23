@@ -17,6 +17,6 @@
 | 10.16 | DNS | 박창희 | [박창희](https://github.com/SSAFY-Seoul-Class-7/STUDY_Network/blob/main/Browser%2C%20DNS%2C%20SOP%2C%20CORS/%EB%B0%95%EC%B0%BD%ED%9D%AC_Browser.pdf) |
 | 10.16 | DNS | 정정교 | [정정교](https://github.com/SSAFY-Seoul-Class-7/STUDY_Network/blob/main/Browser%2C%20DNS%2C%20SOP%2C%20CORS/%EC%A0%95%EC%A0%95%EA%B5%90_DNS.pdf)|
 | 10.16 | CORS | 하윤철 | [하윤철](https://github.com/SSAFY-Seoul-Class-7/STUDY_Network/blob/main/Browser%2C%20DNS%2C%20SOP%2C%20CORS/SOP%2CCORS%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C.pptx)|
-| 09.25 | Router, LB, Subnet | 한시현 |  |
+| 09.25 | Router, LB, Subnet | 한시현 | [한시현](https://github.com/SSAFY-Seoul-Class-7/STUDY_Network/blob/main/Router%2C%20LB%2C%20Subnet%2C%20MultiPlexing%2C%20XSS/%ED%95%9C%EC%8B%9C%ED%98%84_Class_Subnet_Gateway_NAT.pdf) |
 | 09.25 | Router, LB, Subnet | 송현우 |  |
 | 09.25 | MultiPlexing, XSS | 안효성 |  |
